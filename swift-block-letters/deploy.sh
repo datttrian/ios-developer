@@ -1,0 +1,2 @@
+swiftc Snowman.swift
+./Snowman
